@@ -28,3 +28,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fato divertido/ Gosto de samba e consequentemente, escolas de sambas e é claro Carnaval...
 
+<a href="https://www.linkedin.com/in/seu_usuário"><img src="https://github.com/anderson-tinoco/anderson-tinoco/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/anderson-tinoco)
