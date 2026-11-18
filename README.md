@@ -4,6 +4,7 @@
 **anderson-tinoco/anderson-tinoco** e um ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
 
 - 🔭 Atualmente trabalho com tech lead em uma empresa de suplemento alimentar saudável ...
 - 🌱 Estou aprendendo linguagens de programação focadas em automação como Python, ambiente AWS, LLMs, Claude Code, Git&GitHub, Docker, Kubernetes...
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 Me encontre através do e-mail anderson.celioti@gmail,com: ...
 - 😄 Pronouns: He/Him
 - ⚡ Fato divertido/ Gosto de samba e consequentemente, escolas de sambas e é claro Carnaval...
--->
+
