@@ -4,7 +4,8 @@
 Here are some ideas to get you started:
 -->
 
-<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-tinoco&hide=html&layout=compact&theme=buefy" /><br><hr>
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-tinoco&hide=html&layout=compact&theme=buefy" />
+<td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=anderson-tinoco&theme=buefy"/><br><hr>  
 <br>
 <br>
 <hr>
