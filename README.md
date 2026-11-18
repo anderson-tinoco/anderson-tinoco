@@ -6,9 +6,10 @@
 Here are some ideas to get you started:
 -->
 
-<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-tinoco&hide=html&layout=compact&theme=buefy" /><br><hr>
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-tinoco&hide=html&layout=compact&theme=buefy" /><br>
 <br>
 <br>
+<hr>
 - 🔭 Atualmente trabalho como tech lead em uma empresa de suplemento alimentar saudável ...
 - 🔭 Tenho esperiência com infraestrutura de redes, cloud e Onprimise...
 - 🌱 Estou aprendendo linguagens de programação focadas em automação como Python, ambiente AWS, LLMs, Claude Code, Git&GitHub, Docker, Kubernetes...
