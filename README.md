@@ -8,6 +8,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 <hr>
+
 ## Olá Amigos! 👋
 
 - 🔭 Atualmente trabalho como tech lead em uma empresa de suplemento alimentar saudável ...
