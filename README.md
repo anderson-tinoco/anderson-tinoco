@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 </table>
 </center> 
 <br>
-<br>
 <hr>
-<br>
   
 ## Olá Amigos! 👋
 
